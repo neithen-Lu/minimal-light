@@ -52,7 +52,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><i style="color:#3388A2">Volatility Analysis with High-frequency and Low-frequency
 Historical Data, and Options-Implied Information</i></div>
-    <div class="author">Huiling Yuan*, <strong>Kexin Lu</strong>, Yifeng Guo, Guodong Li</div>
+    <div class="author">Huiling Yuan*, <strong>Kexin Lu</strong>, Guodong Li</div>
     <div class="periodical"><em>Major revision requested by <i> Statistica Sinica </i>.</em></div>
   </div>
 </div>
