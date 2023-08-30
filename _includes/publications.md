@@ -25,7 +25,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><i style="color:#3388A2">SARMA: Scalable Low-Rank High-Dimensional Autoregressive Moving Averages via Tensor Decomposition</i></div>
-    <div class="author">Feiqing Huang*, Yao Zheng*, <strong>Kexin Lu</strong>, Yifeng Guo, Guodong Li</div>
+    <div class="author">Feiqing Huang*, Yao Zheng*, <strong>Kexin Lu</strong>, Guodong Li</div>
     <div class="periodical"><em>R & R requested by <i> Annals of Statistics </i> </em></div>
   </div>
 </div>
