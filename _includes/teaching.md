@@ -2,6 +2,7 @@
 
 
 <ul style="margin:0 0 5px;">
+  <li>Teaching assistant, STAT3910: Financial economics </li>
   <li>Teaching assistant, STAT8017: Data mining techniques </li>
   <li> Teaching assistant, STAT3600: Linear statistical analysis </li>
   <li> Teaching assistant, STAT3907: Linear models and forecasting </li>
