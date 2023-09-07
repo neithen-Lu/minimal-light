@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><i style="color:#3388A2">HAR-Ito models and high-dimensional HAR modeling for high-frequency data</i></div>
     <div class="author">Huiling Yuan*, <strong>Kexin Lu*</strong>, Yifeng Guo, Guodong Li</div>
-    <div class="periodical"><em>Under review by <i> Journal of the Royal Statistical Society, Series B </i>.</em></div>
+<!--     <div class="periodical"><em>Under review by <i> Journal of the Royal Statistical Society, Series B </i>.</em></div> -->
     <div class="links">
       <a href="https://arxiv.org/abs/2303.02896" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
       <strong>Cofirst</strong>
@@ -54,6 +54,18 @@
 Historical Data, and Options-Implied Information</i></div>
     <div class="author">Huiling Yuan*, <strong>Kexin Lu</strong>, Guodong Li</div>
     <div class="periodical"><em>Major revision requested by <i> Statistica Sinica </i>.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><i style="color:#3388A2">High-Frequency-Based Volatility Model with Network Structure
+</i></div>
+    <div class="author">Huiling Yuan*, <strong>Kexin Lu</strong>, Guodong Li</div>
+    <div class="periodical"><em>Minor revision requested by <i> Journal of Time Series Analysis </i>.</em></div>
   </div>
 </div>
 </li>
