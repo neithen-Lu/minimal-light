@@ -20,6 +20,8 @@
 </div>
 </li>
 
+<li>
+<div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><i style="color:#3388A2">Volatility Analysis with High-frequency and Low-frequency
 Historical Data, and Options-Implied Information</i></div>
@@ -70,8 +72,7 @@ Historical Data, and Options-Implied Information</i></div>
 </div>
 </li>
 
-<li>
-<div class="pub-row">
+
 
 
 
